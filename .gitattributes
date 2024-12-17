@@ -1,21 +1,21 @@
 # Imágenes y texturas
-ether-no/**/*.png filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.jpg filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.psd filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.tga filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.png filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.psd filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.tga filter=lfs diff=lfs merge=lfs -text
 # Audio
-ether-no/**/*.wav filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.wav filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
 # Modelos 3D
-ether-no/**/*.fbx filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.obj filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.dae filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.obj filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.dae filter=lfs diff=lfs merge=lfs -text
 # Videos
-ether-no/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.mov filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.mov filter=lfs diff=lfs merge=lfs -text
 # Asset Bundles
-ether-no/**/*.bundle filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.assets filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.bundle filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.assets filter=lfs diff=lfs merge=lfs -text
 # Otros formatos grandes
-ether-no/**/*.zip filter=lfs diff=lfs merge=lfs -text
-ether-no/**/*.rar filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.zip filter=lfs diff=lfs merge=lfs -text
+Ether-no/**/*.rar filter=lfs diff=lfs merge=lfs -text
